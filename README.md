@@ -29,7 +29,7 @@ Sponsors
 >Galvanize creates an “innovation ecosystem” designed to give entrepreneurs and innovators the best chance of success at the start of their next (or first) big thing. Through the three pillars of Capital, Community, and Curriculum, Galvanize builds a community greater than the sum of its parts to spark disruptive ideas and breakout companies.
 
 ### [BWBacon Group](http://bwbacon.com)
-> Rather than pure staffing, BWBacon is pure alignment. - See more at: http://www.bwbacon.com/#sthash.bjGgRfX2.dpuf
+> Rather than pure staffing, BWBacon is pure alignment.
 
 
 ### [SupportLocal](http://www.supportlocal.com)
@@ -39,7 +39,7 @@ About The Organizers
 --------------
 
 ### Levi Cook
-[linked in](http://www.linkedin.com/in/levicook)
+[linked-in](http://www.linkedin.com/in/levicook)
 [twitter](https://twitter.com/levicook)
 [g+](https://plus.google.com/100303354759468796601/posts)
 > Levi Cook is a founder and Chief Technology Officer at [SupportLocal](http://www.supportlocal.com) and is in charge of leading the company’s engineering team.  Mr. Cook is a seasoned open-source programmer. He has been a featured speaker at numerous programming conferences and regional software groups. He is also the author of a number of published articles, including IBM Developer Works. He has over 13 years of experience in developing software applications. He is a specialist in development practices required for building large-scale Internet-based applications. An Internet industry veteran, Mr. Cook has contributed to dozens of open source software projects and has helped many organizations adopt and succeed with agile developmental practices.
@@ -47,7 +47,7 @@ Prior to SupportLocal, Mr. Cook served as a lead developer for Alice.com, a top 
 Prior to Alice.com, Mr. Cook served as Development Engineer and Integration Architect at WEA Trust where he developed actuarial and claim and benefit management systems, as well as serving as a Senior IT Consultant at Isthmus Group and Greenbrier & Russell.
 
 ###Cory LaNou
-[linked in](http://www.linkedin.com/in/corylanou)
+[linked-in](http://www.linkedin.com/in/corylanou)
 [twitter](https://twitter.com/corylanou)
 [g+](https://plus.google.com/117716200974674608040/posts)
 >Cory LaNou is a Founder and Chief Information Officer at SupportLocal and is responsible for leading all application development efforts.
