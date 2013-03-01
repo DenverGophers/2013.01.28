@@ -35,9 +35,9 @@ This is a MUST read for anybody learning go as an experienced developer
 This is a post in response to most people new to go and what they have an "alergic" reaction to.  MUST READ for new developers!
 - [Denver Gophers Meetup](http://www.meetup.com/Denver-Go-Language-User-Group/) Official meetup site with all the scheduled meetups
 - [Denver Gophers GitHub Account](https://github.com/DenverGophers) Github account used to post before and after code/comments from our meetups
-- [@DenverGophers](http://twitter.com/denvergophers)
-- [Golang Videos](http://blog.golang.org/2012/07/go-videos-from-google-io-2012.html)
-- [loader.io](http://loader.io/)
+- [@DenverGophers](http://twitter.com/denvergophers) Our twitter account.  Please follow us to find out the latest news/events in the local area about go!
+- [Golang Videos](http://blog.golang.org/2012/07/go-videos-from-google-io-2012.html) Amazing videos explaining key areas and concepts about go. The first video about Concurrency is amazing!
+- [loader.io](http://loader.io/) Just released, this is a cloud based load testing tool.  Very impressive tool.
 - [Go By Example](https://gobyexample.com/)
 - [Golang-book](http://www.golang-book.com/)
 - [Go book app spot](http://go-book.appspot.com/)
