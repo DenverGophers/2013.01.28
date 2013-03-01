@@ -33,14 +33,20 @@ Resources
 This is a MUST read for anybody learning go as an experienced developer
 - [Additional Effective Go Notes](https://groups.google.com/forum/#!msg/golang-nuts/xbFLvvvvyUo/Iw8MC9MRX3YJ) 
 This is a post in response to most people new to go and what they have an "alergic" reaction to.  MUST READ for new developers!
-- [Denver Gophers Meetup](http://www.meetup.com/Denver-Go-Language-User-Group/) Official meetup site with all the scheduled meetups
-- [Denver Gophers GitHub Account](https://github.com/DenverGophers) Github account used to post before and after code/comments from our meetups
-- [@DenverGophers](http://twitter.com/denvergophers) Our twitter account.  Please follow us to find out the latest news/events in the local area about go!
 - [Golang Videos](http://blog.golang.org/2012/07/go-videos-from-google-io-2012.html) Amazing videos explaining key areas and concepts about go. The first video about Concurrency is amazing!
 - [loader.io](http://loader.io/) Just released, this is a cloud based load testing tool.  Very impressive tool.
 - [Go By Example](https://gobyexample.com/)
 - [Golang-book](http://www.golang-book.com/)
 - [Go book app spot](http://go-book.appspot.com/)
+
+
+Denver Gopher Social Media
+----------------
+- [Meetup.com](http://www.meetup.com/Denver-Go-Language-User-Group/) Official meetup site with all the scheduled meetups
+- [Github](https://github.com/DenverGophers) Github account used to post before and after code/comments from our meetups
+- [@DenverGophers](http://twitter.com/denvergophers) Our twitter account.  Please follow us to find out the latest news/events in the local area about go!
+- [G+](https://plus.google.com/communities/104822260820066412402) Our G+ Community page.
+
 
 Sponsors
 --------------
@@ -64,6 +70,7 @@ About The Organizers
 [linked-in](http://www.linkedin.com/in/levicook)
 [twitter](https://twitter.com/levicook)
 [g+](https://plus.google.com/100303354759468796601/posts)
+[github](https://github.com/levicook)
 > Levi Cook is a founder and Chief Technology Officer at [SupportLocal](http://www.supportlocal.com) and is in charge of leading the company’s engineering team.  
 Mr. Cook is a seasoned open-source programmer. He has been a featured speaker at numerous programming conferences and regional software groups. 
 He is also the author of a number of published articles, including IBM Developer Works. He has over 13 years of experience in developing software applications. 
@@ -79,6 +86,7 @@ claim and benefit management systems, as well as serving as a Senior IT Consulta
 [linked-in](http://www.linkedin.com/in/corylanou)
 [twitter](https://twitter.com/corylanou)
 [g+](https://plus.google.com/117716200974674608040/posts)
+[github](https://github.com/corylanou)
 >Cory LaNou is a Founder and Chief Information Officer at [SupportLocal](http://www.supportlocal.com) and is responsible for leading all application development efforts.
 Prior to SupportLocal, Mr. LaNou was the founding engineer of LocalLaunch. At LocalLaunch, he was responsible for leading and implementing the first 
 set of core architecture including customer relationship management tools, automated billing, product setup and configuration, API integrations with Google and Yahoo, 
