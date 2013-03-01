@@ -24,17 +24,20 @@ Feel free to bring your ideas/questions.  There will be plenty of us to split in
 
 Resources
 --------------
-1. [GO+](https://plus.google.com/communities/114112804251407510571) This community is really picking up and has a lot of great posts and resources
-2. [GO wiki](https://code.google.com/p/go-wiki/) A little about everything here.  Check here first if you are looking for more resources on go
-3. [golang.org](http://golang.org/) The official site for the GO language
-4. [Go Playground](http://play.golang.org/) Create and share go snippets
-5. [Go Tour](http://tour.golang.org/#1) Great way to learn go for the first time
-6. [Effective Go](http://golang.org/doc/effective_go.html) 
+- [GO+](https://plus.google.com/communities/114112804251407510571) This community is really picking up and has a lot of great posts and resources
+- [GO wiki](https://code.google.com/p/go-wiki/) A little about everything here.  Check here first if you are looking for more resources on go
+- [golang.org](http://golang.org/) The official site for the GO language
+- [Go Playground](http://play.golang.org/) Create and share go snippets
+- [Go Tour](http://tour.golang.org/#1) Great way to learn go for the first time
+- [Effective Go](http://golang.org/doc/effective_go.html) 
 This is a MUST read for anybody learning go as an experienced developer
-7. [Additional Effective Go Notes](https://groups.google.com/forum/#!msg/golang-nuts/xbFLvvvvyUo/Iw8MC9MRX3YJ) 
+- [Additional Effective Go Notes](https://groups.google.com/forum/#!msg/golang-nuts/xbFLvvvvyUo/Iw8MC9MRX3YJ) 
 This is a post in response to most people new to go and what they have an "alergic" reaction to.  MUST READ for new developers!
-8. [Denver Gophers Meetup](http://www.meetup.com/Denver-Go-Language-User-Group/) Official meetup site with all the scheduled meetups
-9. [Denver Gophers GitHub Account](https://github.com/DenverGophers) Github account used to post before and after code/comments from our meetups
+- [Denver Gophers Meetup](http://www.meetup.com/Denver-Go-Language-User-Group/) Official meetup site with all the scheduled meetups
+- [Denver Gophers GitHub Account](https://github.com/DenverGophers) Github account used to post before and after code/comments from our meetups
+- [@DenverGophers](http://twitter.com/denvergophers)
+- [Golang Videos](http://blog.golang.org/2012/07/go-videos-from-google-io-2012.html)
+- [loader.io](http://loader.io/)
 
 Sponsors
 --------------
